@@ -1,10 +1,12 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/AK-am-zN)
 ### დავალება: "Introduction to CSS" - დიზაინის იმპლემენტაცია
 
+
 **აღწერა:**
 ააწყვეთ მოცემული დიზაინი HTML/CSS-ის გამოყენებით. მთავარი მიზანია სუფთა და ვალიდური კოდის წერა, რომელიც ვიზუალურად ზუსტად იმეორებს დიზაინს.
 
 🔗 **Figma Link:** [Introduction to CSS](https://www.figma.com/design/xRu6Y23NtPIMWgtRAMcriV/Introduction-to-css?node-id=0-1&t=cLWxw2oV5naP99fg-1)
+<img width="1313" height="2019" alt="127 0 0 1_5500_" src="https://github.com/user-attachments/assets/4db8ea3b-f67e-4b83-910a-07ff21ecc8f7" />
 
 ---
 
